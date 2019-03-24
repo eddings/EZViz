@@ -1,5 +1,6 @@
 # UALR-bargrams
 
-University of Arkansas at Little Rock
-
-Information Visualization graduate course project
+By:  grad students @ University of Arkansas at Little Rock
+     (Abdullah Faysal, Michael DiCicco, Daniel Eddings)
+    
+    
