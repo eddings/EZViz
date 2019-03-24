@@ -1,2 +1,4 @@
 # UALR-bargrams
-Reincarnation of EZChooser to demonstrate the benefits of parallel bargram visualization
+
+University of Arkansas at Little Rock
+Information Visualization graduate course project
