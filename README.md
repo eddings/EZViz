@@ -1,10 +1,9 @@
 # EZViz
 
-PowerPoint:
+[PowerPoint](https://github.com/eddings/EZViz/blob/master/EZViz%20Informal%20Presentation.pptx)
 
 
-Demo:
-https://eddings.github.io/modern-chooser-poc/
+[Proof of Concept](https://eddings.github.io/modern-chooser-poc/)
 
 
 By grad students @ University of Arkansas at Little Rock <br />
