@@ -5,7 +5,7 @@
 
 [EZViz Visualization](https://eddings.github.io/modern-chooser-poc/modern-chooser.html)
 
-[EZViz Source Code](https://github.com/eddings/modern-chooser-poc)
+[EZViz Source Code](https://github.com/mikedici/modern-chooser-poc)
 
 
 By grad students @ University of Arkansas at Little Rock <br />
