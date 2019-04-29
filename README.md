@@ -1,6 +1,6 @@
 # EZViz
 
-[PowerPoint](https://github.com/eddings/EZViz/raw/master/EZViz%20Informal%20Presentation.pptx)
+[PowerPoint](https://github.com/eddings/EZViz/raw/master/EZViz%20Final%20Presentation(1).pptx)
 
 
 [EZViz Visualization](https://eddings.github.io/modern-chooser-poc/modern-chooser.html)
